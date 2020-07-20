@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/react-note/static/css/main.b0a18940.chunk.css",
+    "main.js": "/react-note/static/js/main.9bbab1f6.chunk.js",
+    "main.js.map": "/react-note/static/js/main.9bbab1f6.chunk.js.map",
+    "runtime-main.js": "/react-note/static/js/runtime-main.95287896.js",
+    "runtime-main.js.map": "/react-note/static/js/runtime-main.95287896.js.map",
+    "static/css/2.829c9cb5.chunk.css": "/react-note/static/css/2.829c9cb5.chunk.css",
+    "static/js/2.3b5dade3.chunk.js": "/react-note/static/js/2.3b5dade3.chunk.js",
+    "static/js/2.3b5dade3.chunk.js.map": "/react-note/static/js/2.3b5dade3.chunk.js.map",
+    "index.html": "/react-note/index.html",
+    "precache-manifest.6ff75717bd935d5e2ba286d26e41c099.js": "/react-note/precache-manifest.6ff75717bd935d5e2ba286d26e41c099.js",
+    "service-worker.js": "/react-note/service-worker.js",
+    "static/css/2.829c9cb5.chunk.css.map": "/react-note/static/css/2.829c9cb5.chunk.css.map",
+    "static/css/main.b0a18940.chunk.css.map": "/react-note/static/css/main.b0a18940.chunk.css.map",
+    "static/js/2.3b5dade3.chunk.js.LICENSE.txt": "/react-note/static/js/2.3b5dade3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.95287896.js",
+    "static/css/2.829c9cb5.chunk.css",
+    "static/js/2.3b5dade3.chunk.js",
+    "static/css/main.b0a18940.chunk.css",
+    "static/js/main.9bbab1f6.chunk.js"
+  ]
+}
